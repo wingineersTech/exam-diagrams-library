@@ -1,0 +1,50 @@
+[
+  {
+    "id": "phy_01",
+    "title": "Concave Mirror Ray Optics",
+    "subject": "Physics",
+    "class": "Class 10",
+    "category": "Optics",
+    "tags": ["Optics", "Reflection", "Mirror", "Focus", "Ray Diagram"],
+    "path": "diagrams/physics/ray_optics_concave.png",
+    "description": "Image formation by concave mirror showing principal axis, pole, and focus."
+  },
+  {
+    "id": "phy_02",
+    "title": "Electric Circuit (Ohm's Law)",
+    "subject": "Physics",
+    "class": "Class 10",
+    "category": "Electricity",
+    "tags": ["Circuit", "Ohm's Law", "Resistor", "Ammeter", "Voltmeter"],
+    "path": "diagrams/physics/circuit_ohms_law.png",
+    "description": "Standard circuit diagram with series ammeter, parallel voltmeter, and rheostat."
+  },
+  {
+    "id": "phy_03",
+    "title": "Glass Prism Dispersion",
+    "subject": "Physics",
+    "class": "Class 10",
+    "category": "Optics",
+    "tags": ["Prism", "Refraction", "Dispersion", "VIBGYOR", "Spectrum"],
+    "path": "diagrams/physics/glass_prism_dispersion.png",
+    "description": "White light splitting into 7 rainbow colors (VIBGYOR) through equilateral glass prism."
+  },
+  {
+    "id": "bio_01",
+    "title": "Human Heart Internal Structure",
+    "subject": "Biology",
+    "class": "Class 10",
+    "category": "Human Physiology",
+    "tags": ["Heart", "Circulation", "Ventricle", "Atrium", "Aorta"],
+    "path": "diagrams/biology/human_heart.png",
+    "description": "Four-chambered human heart cross-section with valves, pulmonary artery, and vena cava."
+  },
+  {
+    "id": "bio_02",
+    "title": "Structure of a Flower (Angiosperm)",
+    "subject": "Biology",
+    "class": "Class 10",
+    "category": "Plant Reproduction",
+    "tags": ["Flower", "Stamen", "Carpel", "Pollen", "Ovary"],
+    ]
+    
