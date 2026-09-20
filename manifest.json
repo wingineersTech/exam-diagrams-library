@@ -46,5 +46,47 @@
     "class": "Class 10",
     "category": "Plant Reproduction",
     "tags": ["Flower", "Stamen", "Carpel", "Pollen", "Ovary"],
+    "path": "diagrams/biology/flower_anatomy.png",
+    "description": "Complete floral diagram showing sepals, petals, stamen, and carpel."
+  },
+  {
+    "id": "bio_03",
+    "title": "Structure of a Nephron",
+    "subject": "Biology",
+    "class": "Class 10",
+    "category": "Excretion",
+    "tags": ["Nephron", "Bowman's Capsule", "Glomerulus", "Kidney"],
+    "path": "diagrams/biology/nephron_structure.png",
+    "description": "Renal corpuscle with Bowman's capsule, glomerulus, Henle's loop, and collecting duct."
+  },
+  {
+    "id": "math_01",
+    "title": "Circle Geometry & Tangents",
+    "subject": "Mathematics",
+    "class": "Class 10",
+    "category": "Geometry",
+    "tags": ["Circle", "Tangent", "Radius", "Chord", "Theorem"],
+    "path": "diagrams/mathematics/circle_geometry.png",
+    "description": "Radius perpendicular to tangent at point of contact, subtended angles."
+  },
+  {
+    "id": "math_02",
+    "title": "Cartesian Coordinate System & Parabola",
+    "subject": "Mathematics",
+    "class": "Class 9",
+    "category": "Coordinate Geometry",
+    "tags": ["Graph", "Axes", "Quadrants", "Parabola"],
+    "path": "diagrams/mathematics/cartesian_graph.png",
+    "description": "X-Y Cartesian grid with labeled origin, axes, and quadratic curve."
+  },
+  {
+    "id": "chem_01",
+    "title": "Electrolysis of Water Apparatus",
+    "subject": "Chemistry",
+    "class": "Class 10",
+    "category": "Chemical Reactions",
+    "tags": ["Electrolysis", "Hydrogen", "Oxygen", "Cathode", "Anode"],
+    "path": "diagrams/chemistry/electrolysis_water.png",
+    "description": "Voltameter setup showing hydrogen gas collecting at cathode and oxygen at anode in 2:1 ratio."
+  }
 ]
-    
